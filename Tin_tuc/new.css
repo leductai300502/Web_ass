@@ -1,0 +1,60 @@
+
+.search{
+    transition: 1s;
+}
+.search:focus-within input{
+    transition: 1s;
+    width: 400px;
+}
+.cover1{
+    display: none!important;
+}
+.cover2{
+    display: none!important;
+}
+.cover3{
+    display: none!important;
+}
+.display1{
+    color: rgb(152, 143, 143);
+}
+.display2{
+    color: rgb(152, 143, 143);
+}
+.display3{
+    color: rgb(152, 143, 143);
+}
+.display4{
+    color: rgb(152, 143, 143);
+}
+.hidden1{
+    display: none;
+}
+.hidden2{
+    display: none;
+}
+.hidden3{
+    display: none;
+}
+.hidden4{
+    display: none;
+}
+.hover_hidden:hover .hover_title{
+    transition: 0.5s;
+    height: 100%;
+}
+.hover_hidden:hover .display{
+    display: block;
+}
+.list_item a{
+    padding: 10px;
+}
+.Community{
+    height: 400px;
+}
+.menu_hover:hover{
+    color: rgb(103, 97, 97);
+}
+.hover_title:hover{
+    color: #52525b;
+}

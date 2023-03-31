@@ -1,0 +1,9 @@
+.hover_menu{
+    padding: 0!important;
+    top: -48px;
+}
+.hover_menu_bg{
+    opacity: 0.7;
+    /* filter: blur(8px); */
+    filter: opacity(-48px);
+}
